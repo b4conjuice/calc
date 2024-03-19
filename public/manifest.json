@@ -1,0 +1,8 @@
+{
+  "name": "calc",
+  "short_name": "calc",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/"
+}
